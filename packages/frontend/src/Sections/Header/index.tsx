@@ -34,6 +34,8 @@ const Navbar: React.FC = ()=>{
             </>
             }
             <span id="logo" ><img src={BBlogo} className="logo-img" alt="logo" /></span>
+            {/*
+              Dropdown menu need to add links to venues eg: subway
             <div className="dropdown">
               <button className="dropbtn">List
                 <i className="fa fa-caret-down"></i>
@@ -44,6 +46,7 @@ const Navbar: React.FC = ()=>{
                 <a href="#">Link 3</a>
               </div>
           </div>
+          */}
         </div>
     )
 
