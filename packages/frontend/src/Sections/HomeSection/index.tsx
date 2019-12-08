@@ -52,7 +52,6 @@ const HomeSection: React.FC = ()=>{
                 })}
 
             </div>
-            <footer className="footer"></footer>
         </div>
     )
 }
